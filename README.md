@@ -241,7 +241,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📞 Support
 
-For support, email support@autofounder-x.com or join our Discord community.
+For support, email kadyananiket141@gmail.com or join our Discord community.
 
 ---
 
